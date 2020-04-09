@@ -1,0 +1,47 @@
+bunglow:
+naam
+id
+aantal
+prijs
+nummera
+gegeves
+park_id
+
+----------
+parken:
+id
+parknaam
+locatie
+nau gegevens
+-----------
+klanten:
+id
+name
+adres / woonplaats
+telefoon
+status(gereseverd of niet)
+----------
+resereveren:
+id
+bunglow_id
+klant_id
+Begin_tid
+Einde_tijd
+factuur_id
+opmerking
+status_reseveren
+-----------
+factuur:
+id
+prijs
+datuim
+korting
+omschrijven 
+status_factuur
+------------
+medewerker
+id
+naam
+functie_id
+
+
